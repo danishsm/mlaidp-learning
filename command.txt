@@ -8,4 +8,22 @@ Update your name and email as you to see in commit
 Check if author and email is set
     git config --list
 
+    git config user.name
+    git config user.email
+
+Add files for tracking. Execute below and then status of files will change to 'A' which mean they are added for tracking.
+    git add .
+
+Commit files 
+    git commit -m "first commit"
+
+Add a branch named main
+    git branch -M main
+
+Add remote github repository
+    git remote add origin https://github.com/danishsm/mlaidp-learning.git
+
+Push to github . Changes will now reflect in github.
+    git push -u origin main
+
 
