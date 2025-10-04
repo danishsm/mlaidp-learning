@@ -1,0 +1,11 @@
+initialize git repository
+    git init
+
+Update your name and email as you to see in commit  
+    git config user.name "danish"
+    git config user.email "iam@moon"
+
+Check if author and email is set
+    git config --list
+
+
