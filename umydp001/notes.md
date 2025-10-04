@@ -12,3 +12,15 @@
     1. Problems with long lists of Rules, where traditional approach fails
     2. Everchanging Environment/Scenario 
     3. Discovering insights within large dataset
+
+
+
+- What are Tensors ?
+
+    - <iframe width="560" height="315" src="https://www.youtube.com/watch?reload=9&v=f5liqUk0ZTw&t=33s" frameborder="0" allowfullscreen></iframe>
+    - [![Video Title](https://www.youtube.com/watch?v=f5liqUk0ZTw&t=33s)](https://www.youtube.com/watch?v=f5liqUk0ZTw&t=33s)
+
+
+- Learning Material for this course    - 
+    - [Deep Learning Github](https://github.com/mrdbourke/pytorch-deep-learning/)
+    - [Learn](https://www.learnpytorch.io/)
