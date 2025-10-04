@@ -27,3 +27,9 @@ Push to github . Changes will now reflect in github.
     git push -u origin main
 
 
+Create a python virtual environment
+    python -m venv .venv
+
+
+Execute below to activate the virtual environment
+    .\.venv\Scripts\activate
