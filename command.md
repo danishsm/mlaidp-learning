@@ -3,7 +3,7 @@ initialize git repository
 
 Update your name and email as you to see in commit  
     git config user.name "danish"
-    git config user.email "iam@moon"
+    git config user.email "examples@gmail.com"
 
 Check if author and email is set
     git config --list
