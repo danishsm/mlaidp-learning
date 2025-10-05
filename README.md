@@ -1,1 +1,1 @@
-Placeholder for usage of repo
+Placeholder for usage of repository
