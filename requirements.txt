@@ -1,3 +1,2 @@
-jupyterlab
-notebook
 torch
+numpy

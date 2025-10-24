@@ -33,3 +33,6 @@ Create a python virtual environment
 
 Execute below to activate the virtual environment
     .\.venv\Scripts\activate
+
+Install from requirement.txt
+    pip install --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org -r requirements.txt
